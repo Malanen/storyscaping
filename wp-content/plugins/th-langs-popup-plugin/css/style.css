@@ -15,11 +15,11 @@
     z-index: 1000;
     width: 800px !important;
     height: auto !important; 
-    position: fixed !important;
+  position: fixed !important;
     padding: 30px 30px 10px 30px !important;
     background: #fff;
     left: 50% !important;
-    margin-top: -60% !important;
+    margin-top: -20% !important;
     -webkit-transform: translateX(-50%) translateY(-50%) !important;
     transform: translateX(-50%) translateY(-50%) !important;
    /* border: 5px solid #4bb9b4 !important; */

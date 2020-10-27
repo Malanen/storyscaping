@@ -1,14 +1,11 @@
-# wordPress-partyvibesplugin
+# wordPress-Multiple-steps-popup-plugin
 
-![Chocolate Chip Cookies](screenshot.png)
-
-***
 
 ## Download the repository from GitHub.com 
-Download the repository **wordpress-partyvibesplugin-main** to your PC/MAC.
+Download the repository to your PC/MAC.
 
 ## Unzip the repository
-After downloading your repository **wordpress-partyvibesplugin-main** to your PC/MAC, you will have to unzip the zip file and you will end up with a folder named **wordpress-partyvibesplugin-main**
+After downloading your repository  to your PC/MAC, you will have to unzip the zip file and you will end up with a folder named **wordpress-partyvibesplugin-main**
 
 ## Rename folder
 Next, go and rename your the folder from the previous step to **partyvibesplugin**

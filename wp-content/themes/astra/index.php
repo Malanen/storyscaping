@@ -43,4 +43,5 @@ get_header(); ?>
 
 <?php endif ?>
 
+<?php the_content(); ?>
 <?php get_footer(); ?>
