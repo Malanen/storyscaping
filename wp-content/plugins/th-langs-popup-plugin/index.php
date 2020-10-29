@@ -39,8 +39,8 @@ function multi_steps_form ()
     $content .= '</div>';
     
     $content .= '<div class="tab">';
-    $content .= '<h3 id="headline-text">Vi har desværre ikke hvad du leder efter, prov en anden skole</h3>';
-    $content .= '<p>Vi vil stadig gerne have din email, i tilfælde af vi gerne vil sende dig noget spam.</p>';
+    $content .= '<h3 id="headline-text">Har du svært ved at finde den rigtige studieretning?</h3>';
+    $content .= '<p>Skriv din mail og modtag en skræddersyet studieretning til dine interesser.</p>';
     $content .= '<p><input placeholder="Fornavn..." oninput="this.className = "></p>';
     $content .= '<div class="input">';
     $content .= '<input type="email" name="email" id="email" placeholder="Skriv din email her..." required><i class="fas fa-envelope"></i>';
@@ -164,7 +164,7 @@ function newsletter_form()
 */
 
     #First parameter is a self choosen name for a unique short-code. Second parameter is the name of the function that creates the newsletter
-    add_shortcode('show_partyvibesplugin','multi_steps_form');
+    add_shortcode('show_th-form-popup','multi_steps_form');
     
     add_action('wp_enqueue_scripts','register_styles_and_scripts_for_plugin');
     
