@@ -18,9 +18,9 @@ function init () {
      .then(() => typeText('Formål'))
       .then(() => wait(2000))
       .then(() => removeText('Formål'))
-     .then(() => typeText('GG'))
+     .then(() => typeText('Faglighed'))
       .then(() => wait(2000))
-      .then(() => removeText('GG'))
+      .then(() => removeText('Faglighed'))
       .then(typeLoop)
   }
   
