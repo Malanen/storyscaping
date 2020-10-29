@@ -36,3 +36,9 @@
     visibility: hidden;
   }
 }
+
+
+.main-header-menu .menu-link, .ast-header-custom-item a {
+    
+    color: #fff;
+}
