@@ -46,14 +46,13 @@ input[type="email"] {
     font-size: 16px !important;
     font-family: 'Montserrat', sans-serif;
     text-align: center !important;
-    margin-bottom: 15px; !important;
+    margin-bottom: 15px !important;
     color: #4f4f4f;
     margin-top: -5px;
-
-
 }
 
-::-webkit-input-placeholder {
+
+:-webkit-input-placeholder {
   color: lightgrey;
 }
 
